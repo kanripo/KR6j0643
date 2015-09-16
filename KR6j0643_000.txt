@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說蓮華眼陀羅尼經
+#+DATE: 2015-08-30 20:37:01.168186
+#+PROPERTY: JUAN 0
