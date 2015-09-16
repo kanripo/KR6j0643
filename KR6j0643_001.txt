@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:00.974502
+#+DATE: 2015-08-30 20:37:01.873283
 #+TITLE: 佛說蓮華眼陀羅尼經
 #+PROPERTY: CBETA_ID T21n1411
 #+PROPERTY: ID KR6j0643
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1411
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0643_T_000-0926b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0643_T_001-0926b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1411¶
-
- 佛說蓮華眼陀羅尼經¶
+No. 1411¶
+佛說蓮華眼陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
+西天譯經三藏朝散大夫試鴻臚少卿傳法大師臣譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
 
 曩謨(引)囉怛曩(二合)怛囉(二合)夜(引)野曩麼阿(引)¶
