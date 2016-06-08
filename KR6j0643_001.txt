@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:01.524373
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說蓮華眼陀羅尼經
 #+PROPERTY: CBETA_ID T21n1411
 #+PROPERTY: ID KR6j0643
